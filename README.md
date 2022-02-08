@@ -2,19 +2,18 @@
 
 ### 2020-today
 
-I'm now building 3D games and various VR / AR / XR experiences with C# in Unity.
+I'm now mostly building 3D games and VR / AR / XR experiences and tools using C# and Unity.
 
 ### 2017-2020
 
-Spent a ton of time with Machine Learning with Python and Jupyter notebooks. 
-Great experience from a learning point of view but I'm afraid I didn't build anything special out of this. 
+I spent a ton of time learning Machine Learning with Python and Jupyter notebooks. It was a great experience from a learning point of view but I'm afraid I didn't build anything special out of this. 
 
 ### 2012-2017
 
-Now just a hobby developer, I mostly coded stuff for fun in javascript - front end and nodejs - mostly in the context of developing extensions for Adobe Creative Cloud, and various developer tools for the creative coding ecosystem.
+Now just a hobby developer, I mostly coded for fun in javascript - both front end and nodejs - mostly in the context of developing extensions for Adobe Creative Cloud, and various developer tools for creatives and the creative coding ecosystem. 
 
 ### 2002-2012
 
-I started my career with Flash and ActionScript, as a consultant, teacher and publisher. For all the bad press it got later, Flash started as an incredible creative tool, open to really wide range of skills and profiles, which is probably why the community was so amazing. 
+I started my career with Flash and ActionScript, as a consultant, teacher and publisher. For all the bad press it got later, Flash started as an incredible creative tool, open to a diverse range of skills and backgrounds, which is probably why the community was so amazing. 
 
 
