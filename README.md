@@ -2,15 +2,15 @@
 
 ### 2020-today
 
-I'm now mostly building 3D games and VR / AR / XR experiences and tools using C# and Unity.
+Still a hobby developer, I'm now focusing on building 3D games and VR / AR / XR experiences & tools, using C# and Unity almost exclusively. I've created apps for Quest 2 and games for PC/Mac.
 
 ### 2017-2020
 
-I spent a ton of time learning Machine Learning with Python and Jupyter notebooks. It was a great experience from a learning point of view but I'm afraid I didn't build anything special out of this. 
+During these years I stepped away from web development and spent a lot of my personnal time learning Machine Learning with Python and Jupyter notebooks. It was a great experience from a learning point of view, even though I'm afraid I didn't build/release anything special out of it !
 
 ### 2012-2017
 
-Now just a hobby developer, I mostly coded for fun in javascript - both front end and nodejs - mostly in the context of developing extensions for Adobe Creative Cloud, and various developer tools for creatives and the creative coding ecosystem. 
+Now working full time at Adobe, I went back to just being a hobby developer. During these years I mostly coded for fun in javascript - both front end and nodejs - often in the context of developing plug-ins and extensions for various Adobe Creative Cloud apps, and other developer tools in the creative coding ecosystem. 
 
 ### 2002-2012
 
