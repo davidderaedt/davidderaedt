@@ -2,7 +2,7 @@
 
 ### 2020-today
 
-Still a hobby developer, I'm now focusing on building 3D games and VR / AR / XR experiences & tools, using C# and Unity almost exclusively. I've created apps for Quest 2 and games for PC/Mac.
+Still a hobby developer, I'm now focusing on building 3D games and VR / AR / XR experiences & tools, using C# and Unity almost exclusively. I've recently created [apps for Quest 2](https://sidequestvr.com/app/6643/contour-demo) and games for PC/Mac.
 
 ### 2017-2020
 
@@ -10,7 +10,7 @@ During these years I stepped away from web development and spent a lot of my per
 
 ### 2012-2017
 
-Now working full time at Adobe, I went back to just being a hobby developer. During these years I mostly coded for fun in javascript - both front end and nodejs - often in the context of developing plug-ins and extensions for various Adobe Creative Cloud apps, and other developer tools in the creative coding ecosystem. 
+Now working full time at Adobe, I went back to just being a hobby developer. During these years I mostly coded for fun in javascript - both front end and nodejs - often in the context of developing [plug-ins](https://github.com/davidderaedt/SVG-NOW) and [extensions](https://github.com/davidderaedt/Illustrator-Layer-Exporter) for various Adobe Creative Cloud apps, and other developer tools in the creative coding ecosystem. 
 
 ### 2002-2012
 
