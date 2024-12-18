@@ -2,7 +2,7 @@
 
 ### 2020-today
 
-Still a hobby developer, I'm now focusing on building 3D games and VR / AR / XR experiences & tools, using C# and Unity almost exclusively. I've recently created [apps for Quest 2](https://sidequestvr.com/app/6643/contour-demo) and games for PC/Mac.
+Still a hobby developer, I'm now focusing on building 3D games and VR / AR / XR experiences & tools, using C# and Unity almost exclusively.
 
 ### 2017-2020
 
